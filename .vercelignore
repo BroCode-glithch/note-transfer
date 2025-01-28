@@ -1,5 +1,4 @@
-node_modules/
-.git/
-storage/
-vendor/
-.env
+/node_modules
+/vendor
+/tests
+/resources
